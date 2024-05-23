@@ -24,12 +24,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Copyright © 2024 AIBA. All Rights Reserved."
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "EMPEZAR",
     "link": "https://github.com/zeon-studio/astroplate"
   },
 

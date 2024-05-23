@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Asóciate con AIBA Hoy:"
+description: "Transforma tu negocio y aprovecha todo el potencial de la Inteligencia Artificial con el Asistente Interno Inteligente de AIBA. Contáctanos hoy para obtener más información sobre cómo nuestra solución puede ayudarte a optimizar las operaciones, mejorar las experiencias con los clientes y promover el crecimiento en la era moderna."
 
 # Testimonials
 testimonials:

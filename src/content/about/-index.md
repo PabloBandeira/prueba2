@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Sobre nosotros:"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Nuestra empresa, fundada en 2024 en la vibrante ciudad de Buenos Aires, se dedica a crear soluciones de inteligencia artificial para empresas. Somos líderes en el campo de la inteligencia artificial y nuestro objetivo es ayudar a las empresas a aprovechar al máximo sus datos. Nuestro fundador y CEO, Pablo Bandeira, es un apasionado profesional con una sólida experiencia en diversos campos especializados de la inteligencia artificial y los datos. Su expertise incluye Arquitectura de Datos, Análisis y Visualización de Datos, Modelos de Machine Learning, y Explotación de LLMs para la creación de IA en Empresas.
