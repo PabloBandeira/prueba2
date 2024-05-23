@@ -10,6 +10,7 @@ import config from "./src/config/config.json";
 
 // https://astro.build/config
 export default defineConfig({
+  output: 'static',
   build:{
     site: 'https://pablobandeira.github.io',
   image: {
